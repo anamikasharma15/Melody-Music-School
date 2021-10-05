@@ -1,0 +1,75 @@
+[
+    {
+        "key":"DSCRFAS",
+        "name":"Sheikh Monirul Tipu ",
+        "designation":"Drummer",
+        "price":7000,
+        "img":"https://media-eng.dhakatribune.com/uploads/2020/10/img-3627-1602792564193.PNG"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Saidus Khaled Sumon",
+        "designation":"Bassist",
+        "price":10000,
+        "img":"https://www.theindependentbd.com/assets/news_images/hgfxf.jpg"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Raef al Hasan Rafa",
+        "designation":"Metal Guitarist",
+        "price":9000,
+        "img":"https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2018/12/web-1544113520706.jpg"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Mahaan Fahim ",
+        "designation":"Clasical Guitarist",
+        "price":8000,
+        "img":"http://mahaanfahim.com/wp-content/uploads/2019/02/29027736_10157373980573916_412383956395098112_o.jpg"
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Lincoln D Costa",
+        "designation":"Vocalist",
+        "price":8000,
+        "img":"https://live.staticflickr.com/7647/16751386680_cc430082fd_b.jpg"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Jalal Ahmed",
+        "designation":"Flute",
+        "price":9000,
+        "img":"https://i2.wp.com/ytimg.googleusercontent.com/vi/w89EROhqD5k/hqdefault.jpg"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Dr Vidydhar Oke",
+        "designation":" Professional Harmonium Player",
+         "price":9000,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dr_Vidyadhar_Oke.jpg/440px-Dr_Vidyadhar_Oke.jpg"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Zakir Hossain",
+        "designation":"Tabla",
+        "price":2000,
+        "img":"https://c8.alamy.com/comp/BA0J95/indian-musician-zakir-hussain-playing-tabla-in-london-BA0J95.jpg"
+
+    },
+    {
+        "key":"DSCRFAS",
+        "name":"Kabir Sumon",
+        "designation":"Piano",
+        "price":8000,
+        "img":"https://upload.wikimedia.org/wikipedia/en/8/84/Kabir_Suman_playing_organ.jpg"
+
+    }
+   
+  
+]
