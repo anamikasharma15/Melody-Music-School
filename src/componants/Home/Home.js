@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
-import img from '../images/logo3.png'
+import img from '../images/music banner.jpg'
 import img1 from '../images/music2.jpg'
 import img2 from '../images/music.jpg'
 import GetCourse from '../../javascript/getCourses';
